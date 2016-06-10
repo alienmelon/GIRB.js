@@ -5,7 +5,7 @@ Girb is a screenmate application designed for the desktop and brought to the web
 
 Girb requires jQuery and jQuery UI because Girb has been built with "write less, do more" in mind.
 
-<a href="http://tetrageddon.com/girb/", target="_blank">Click here</a> for a live demo of Girb on a website.
+[Click here](http://tetrageddon.com/girb/) for a live demo of Girb on a website.
 
 You can easily add Girb to any .html internet page by including the following javascript powers between the < head > < / head > tags:
 ```javascript
@@ -27,5 +27,5 @@ Be sure to actually upload the Girb files to your server, in the same directory 
 
 ![GIRB](http://tetrageddon.com/girb/IMG_GIRB_BANNER.gif "GIRB")
 
-Girb was inspired by <a href="http://webneko.net/", target="_blank">WebNeko</a>. A fine relic from a more civilized internet age.
+Girb was inspired by [WebNeko](http://webneko.net/). A fine relic from a more civilized internet age.
 Consider using that instead.
